@@ -1,0 +1,73 @@
+`Highlighting groups for various occasions
+-----------------------------------------
+SpecialKey	SpecialKey
+NonText	NonText
+Directory	Directory
+ErrorMsg	ErrorMsg
+IncSearch	IncSearch
+Search	Search
+MoreMsg	MoreMsg
+ModeMsg	ModeMsg
+LineNr	LineNr
+CursorLineNr	CursorLineNr
+Question	Question
+StatusLine	StatusLine
+StatusLineNC	StatusLineNC
+VertSplit	VertSplit
+Title	Title
+Visual	Visual
+VisualNOS	VisualNOS
+WarningMsg	WarningMsg
+WildMenu	WildMenu
+Folded	Folded
+FoldColumn	FoldColumn
+DiffAdd	DiffAdd
+DiffChange	DiffChange
+DiffDelete	DiffDelete
+DiffText	DiffText
+SignColumn	SignColumn
+Conceal	Conceal
+SpellBad	SpellBad
+SpellCap	SpellCap
+SpellRare	SpellRare
+SpellLocal	SpellLocal
+Pmenu	Pmenu
+PmenuSel	PmenuSel
+PmenuSbar	PmenuSbar
+PmenuThumb	PmenuThumb
+TabLine	TabLine
+TabLineSel	TabLineSel
+TabLineFill	TabLineFill
+CursorColumn	CursorColumn
+CursorLine	CursorLine
+ColorColumn	ColorColumn
+Cursor	Cursor
+
+Syntax highlighting groups
+--------------------------
+lCursor	lCursor
+MatchParen	MatchParen
+Normal	Normal
+Comment	Comment pythonComment
+Constant	Constant String Character Number Boolean Float pythonString pythonRawString pythonNumber
+Special	Special Tag SpecialChar SpecialComment Debug pythonEscape pythonDoctest
+Identifier	Identifier
+Statement	Statement Conditional Repeat Label Operator Keyword Exception pythonStatement pythonConditional pythonRepeat
+	pythonOperator pythonException
+PreProc	PreProc Include Define Macro PreCondit pythonInclude pythonDecorator pythonDoctestValue
+Type	Type StorageClass Structure Typedef pythonExceptions
+Underlined	Underlined
+Ignore	Ignore
+Error	Error
+Todo	Todo pythonTodo
+Function	Function pythonFunction pythonBuiltin
+Delimiter	Delimiter
+CursorIM	CursorIM
+pythonSpaceError	pythonSpaceError
+pythonSync	pythonSync
+Scrollbar	Scrollbar
+Menu	Menu
+ShowMarksHL	ShowMarksHL
+cIf0	cIf0
+diffOnly	diffOnly
+SpellErrors	SpellErrors
